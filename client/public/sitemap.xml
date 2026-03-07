@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.auraplay.site/sitemap-categories.xml</loc>
+    <lastmod>2026-03-07</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.auraplay.site/sitemap-anime.xml</loc>
+    <lastmod>2026-03-07</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.auraplay.site/sitemap-movies.xml</loc>
+    <lastmod>2026-03-07</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.auraplay.site/sitemap-series.xml</loc>
+    <lastmod>2026-03-07</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.auraplay.site/sitemap-animation.xml</loc>
+    <lastmod>2026-03-07</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.auraplay.site/sitemap-asian.xml</loc>
+    <lastmod>2026-03-07</lastmod>
+  </sitemap>
+</sitemapindex>
